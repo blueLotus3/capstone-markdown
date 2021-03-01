@@ -8,17 +8,18 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Complete
-|Day 1| Wireframes / Priority Matrix / Timeline | Complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
-|Day 4| MVP & Bug Fixes | Complete
-|Day 5| Final Touches | Complete
-|Day 6| Present | Complete;
+|Day 1| Project Description | Incomplete
+|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 4| MVP & Bug Fixes | Inomplete
+|Day 5| Final Touches | Inomplete
+|Day 6| Present | Incomplete;
 
 
 ## Project Description
-I want to build an app where a user can create a list of workout goals they want 
-to accomplish and keep track of the calories they burn on each workout. 
+This fitness app will be able to keep the user organize their routines of excercise
+on a daily basis, each exercise will have a description of how to implent them
+and the user will be able to punch in how many reps and weight was performed.
 
 ## Google Sheet
 
