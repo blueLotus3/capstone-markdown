@@ -30,7 +30,7 @@ and the user will be able to punch in how many reps and weight was performed.
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile]()
+- [Mobile](https://res.cloudinary.com/ds7w3ysag/image/upload/v1614632665/IMG_2594_xflzu5.jpg)
 - [Tablet]()
 - [Desktop]()
 
