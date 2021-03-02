@@ -34,11 +34,10 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - [Tablet](https://www.figma.com/file/rvJLtdYW15TBgpNYAf9Pi9/Untitled?node-id=2%3A81)
 - [Desktop](https://www.figma.com/file/Db2tc1TpZj3tSlQN7CTw5R/Untitled?node-id=0%3A3&frame-preset-name=Desktop)
 
-Wireframing Resources:
+## Wireframing Resources:
 
-- [Mockflow](https://mockflow.com/app/#Wireframe)
 - [Figma](https://www.figma.com/)
-
+-[Color Scheme Inspiration](https://www.behance.net/gallery/110102927/Fitness-App-UI-Design?tracking_source=search_projects_recommended%7Cfitness%20app)
 
 ### MVP/PostMVP - 5min
 
