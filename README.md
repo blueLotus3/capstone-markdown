@@ -77,7 +77,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Routine Create | L | 8hr|  hr | 
 | Workouts/exercises| M | 8hr | hr|
 | Responsive Design | H | 10hrs| hr | 
-| Calander | H | hr | 5hr | hr |
+| Calander | H | 5hr | hr | hr |
 | Total | H | 50hrs| hrs |
 
 #### PostMVP
