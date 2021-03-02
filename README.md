@@ -34,6 +34,11 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - [Tablet](https://www.figma.com/file/rvJLtdYW15TBgpNYAf9Pi9/Untitled?node-id=2%3A81)
 - [Desktop](https://www.figma.com/file/Db2tc1TpZj3tSlQN7CTw5R/Untitled?node-id=0%3A3&frame-preset-name=Desktop)
 
+
+## Vue Architecture
+
+- [Architecture](https://www.figma.com/file/mChfbbq7KUyGzJ5wCfgEGA/Vue-Architecture?node-id=0%3A1)
+
 ## Wireframing Resources:
 
 - [Figma](https://www.figma.com/)
