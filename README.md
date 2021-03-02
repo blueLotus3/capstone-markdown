@@ -37,7 +37,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 ## Wireframing Resources:
 
 - [Figma](https://www.figma.com/)
--[Color Scheme Inspiration](https://www.behance.net/gallery/110102927/Fitness-App-UI-Design?tracking_source=search_projects_recommended%7Cfitness%20app)
+- [Color Scheme Inspiration](https://www.behance.net/gallery/110102927/Fitness-App-UI-Design?tracking_source=search_projects_recommended%7Cfitness%20app)
 
 ### MVP/PostMVP - 5min
 
