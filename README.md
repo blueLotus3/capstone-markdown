@@ -86,7 +86,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Interaction with Calander | H | 4hr | hr | hr |
 | Nutrition | M | 7hr | hr |
 | BMI | M | 7hr | hr |
-| Authenication | H | hr | 5hr | hr |
+| Authenication | H | 5hr | hr | hr |
 | Remove account info | H | 5hr | hr |
 | Total | H | 28hrs| hrs |
 
